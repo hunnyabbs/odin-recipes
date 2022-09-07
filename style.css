@@ -1,0 +1,84 @@
+.name {
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+    padding: 1%;
+    font-weight: bold;
+}
+
+.taco {
+    background-color: green;
+}
+
+.salsa {
+    background-color: white;
+}
+
+.drink {
+    background-color: red;
+}
+
+#food {
+    height: 300px;
+    width: 400px;
+    font-size: 24px;
+    padding-left: 28%;
+}
+
+.top {
+    text-align: center;
+}
+
+.taco-plate {
+    height: auto;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.taco-sub {
+    text-align: center;
+}
+
+div.text-center {
+    text-align: center;
+    list-style: inside;
+}
+
+.salsa-bowl {
+    height: auto;
+    width: 200px;
+    display: block;
+    margin-left: 5%;
+}
+
+p.salsa-sub {
+    padding-left: 6%;
+}
+
+.salsa-intro {
+    float: left;
+}
+.salsa-ing {
+    float: left;
+    padding-left: 40px
+}
+
+.bottles {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid brown;
+}
+
+p.horchata-sub {
+    text-align: center;
+}
+
+.horchata-page .horchata-ing {
+    list-style-position: inside;
+    padding-left: 18%;
+}
